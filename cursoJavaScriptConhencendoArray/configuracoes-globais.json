@@ -1,0 +1,40 @@
+{
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "off",
+    "editor.quickSuggestionsDelay": 10000,
+    "javascript.suggest.enabled": false,
+    "javascript.suggest.autoImports": false,
+    "javascript.suggest.completeFunctionCalls": false,
+    "typescript.suggest.enabled": false,
+    "typescript.suggest.autoImports": false,
+    "editor.hover.enabled": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showFunctions": false,
+    "editor.suggest.showVariables": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showMethods": false,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "javascript": false,
+        "typescript": false,
+        "python": false
+    },
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "extensions.ignoreRecommendations": true,
+    "npm-intellisense.scanDevDependencies": false,
+    "path-intellisense.autoTriggerNextSuggestion": false,
+    "emmet.showSuggestionsAsSnippets": false,
+    "emmet.triggerExpansionOnTab": false
+}
